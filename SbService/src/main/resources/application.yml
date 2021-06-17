@@ -1,0 +1,5 @@
+#Sbservice should start at 8081
+server:
+   port: 8081
+app:
+  message: "Message from 3.0 version SpringBoot Service !!! "
